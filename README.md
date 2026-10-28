@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi there, I'm Ikageng Thatohatsi 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** with a strong foundation in **web development**. Currently studying and building my skills through hands-on projects and continuous learning.
