@@ -1,55 +1,27 @@
+# Ikageng Monyanyedi — Static Portfolio
 
-# Hi there, I'm Ikageng Thatohatsi 👋
+A responsive, editorial-style static portfolio built with HTML, CSS and JavaScript. It is ready for Vercel and requires no PHP runtime, database, build step or backend.
 
-Welcome to my GitHub profile! I'm a passionate **Software Developer** with a strong foundation in **web development**. Currently studying and building my skills through hands-on projects and continuous learning.
+## Deploy on Vercel
 
-## 🚀 About Me
+1. Extract this ZIP.
+2. Upload the **contents** of this folder to a GitHub repository, keeping `index.html` at the repository root.
+3. In Vercel, create a project and import that repository.
+4. Choose **Other** as the framework preset. No build command is needed; leave the output directory at its default.
+5. Deploy.
 
-I'm dedicated to mastering web development and creating clean, user-friendly digital experiences. I love exploring the full web stack and experimenting with new technologies to expand my capabilities as a developer.
+You can also run it locally by opening `index.html` in a browser or running `python -m http.server 8000` from this folder.
 
-## 💼 Technical Skills
+## Files
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Currently Learning:** Web frameworks, responsive design, and best practices
-- **Focus Area:** Full-stack web development
+- `index.html` — portfolio content and static example chart data
+- `assets/css/style.css` — responsive editorial styling
+- `assets/js/main.js` — mobile navigation, project filters, restrained reveal effects and Google Charts
+- `assets/docs/Ikageng-Monyanyedi-CV.pdf` — linked CV
 
-## 🎓 Learning Journey
+## Notes
 
-As a student developer, I'm actively:
-- 📚 Building foundational web development skills
-- 🔧 Working on personal projects to apply what I learn
-- 💡 Exploring modern web technologies and frameworks
-- 🤝 Open to collaboration and feedback from the community
-
-## 📌 Projects
-
-I'm currently building projects to showcase my skills in web development. Check back soon for updates as I grow my portfolio!
-
-## 🌱 What I'm Focused On
-
-- Strengthening my JavaScript and PHP skills
-- Learning responsive web design
-- Understanding web performance and best practices
-- Building real-world projects
-
-## 📊 GitHub Activity
-
-Feel free to explore my repositories to see what I'm working on and how I'm growing as a developer.
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ikagengmonyanyedi)
-- 📧 Open to collaboration and learning opportunities
-- 💬 Feel free to reach out with feedback or project ideas
-
-## 🎯 Goals
-
-- Create impactful web applications
-- Contribute to open-source projects
-- Build a strong portfolio as a web developer
-- Continuously improve my coding skills
-
----
-
-**Thanks for visiting my GitHub profile! I'm excited to share my journey as a developer. Let's build something amazing together! 🚀**
+- The Google Charts visualisation uses an explicitly fictional example dataset comparing monthly revenue and operating costs. It is not real business or client data.
+- Google Charts and Google Fonts load from external services and need an internet connection. The rest of the site is static.
+- There is no database, PHP, login or server-side form processing.
+- Before publishing, review the public contact details and add real project screenshots or demo links when available. The business insights dashboard is clearly marked as planned rather than completed.
